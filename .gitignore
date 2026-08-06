@@ -1,0 +1,14 @@
+# Python runtime and local data
+__pycache__/
+*.py[cod]
+.python-packages/
+wellbeing.db
+
+# JavaScript tooling and build output
+node_modules/
+dist/
+
+# Local environment files
+.env
+.venv/
+venv/
