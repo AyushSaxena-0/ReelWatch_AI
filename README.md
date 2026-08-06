@@ -1,6 +1,7 @@
 # ReelWatchAI
 
 ReelWatchAI is a local-only digital wellbeing companion that watches for repeated upward swipe gestures using OpenCV and presents its controls and reports in Gradio.
+<img width="1458" height="852" alt="Screenshot 2026-08-06 212615" src="https://github.com/user-attachments/assets/ac383d96-659d-4b4c-8c9b-360448c0fef4" />
 
 ## Run locally
 
